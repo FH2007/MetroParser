@@ -2,3 +2,9 @@ MetroParser/MetroParser/bin
 MetroParser/MetroParser/obj
 MetroParser/MetroParser/.vs
 MetroParser/MetroParser/Properties/PublishProfiles
+MetroParser/MetroParserApi/bin
+MetroParser/MetroParserApi/obj
+*/.vs
+MetroParser/MetroParser/Properties/PublishProfiles
+MetroParser/.vs/MetroParser/DesignTimeBuild/.dtbcache.v2
+*.v2
